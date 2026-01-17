@@ -1,0 +1,836 @@
+{
+    "target_url": "https://www.upwork.com",
+    "scraped_at": "2026-01-15 20:13:04",
+    "page_title": "Upwork | Hire Top Freelance Talent with Confidence",
+    "meta_description": "Upwork is the world’s largest human and AI-powered freelance marketplace to hire top talent—trusted by businesses and professionals worldwide.",
+    "total_links_found": 177,
+    "total_images_found": 26,
+    "headers_structure": [
+        "Connecting businesses in need to freelancers who deliver",
+        "Find freelancers by relevant  skills",
+        "How it works",
+        "Clients only pay after hiring",
+        "Real results from clients",
+        "Frequently\nAsked Questions",
+        "What is Upwork?",
+        "How does Upwork work?",
+        "Who is Upwork for?",
+        "How much does Upwork cost?"
+    ],
+    "links_extracted": [
+        {
+            "text": "___",
+            "url": "#"
+        },
+        {
+            "text": "Upwork home",
+            "url": "/"
+        },
+        {
+            "text": "Sign up",
+            "url": "/nx/signup/"
+        },
+        {
+            "text": "Log in",
+            "url": "/ab/account-security/login"
+        },
+        {
+            "text": "Sign up",
+            "url": "/nx/signup/"
+        },
+        {
+            "text": "Explore more",
+            "url": "/hire/"
+        },
+        {
+            "text": "Book consultation",
+            "url": "/services/consultations/"
+        },
+        {
+            "text": "Cold callers",
+            "url": "/hire/cold-callers/"
+        },
+        {
+            "text": "Content moderators",
+            "url": "/hire/content-moderators/"
+        },
+        {
+            "text": "Lead generation specialists",
+            "url": "/hire/lead-generation-specialists/"
+        },
+        {
+            "text": "Personal assistants",
+            "url": "/hire/personal-assistants/"
+        },
+        {
+            "text": "Virtual assistants",
+            "url": "/hire/virtual-assistants/"
+        },
+        {
+            "text": "Automation engineers",
+            "url": "/hire/automation-engineers/"
+        },
+        {
+            "text": "Chatbot developers",
+            "url": "/hire/chatbot-developers/"
+        },
+        {
+            "text": "Computer vision engineers",
+            "url": "/hire/computer-vision-engineers/"
+        },
+        {
+            "text": "Ethical hackers",
+            "url": "/hire/certified-ethical-hackers/"
+        },
+        {
+            "text": "Machine learning engineers",
+            "url": "/hire/machine-learning-experts/"
+        },
+        {
+            "text": "Graphic designers",
+            "url": "/hire/graphic-designers/"
+        },
+        {
+            "text": "Illustrators",
+            "url": "/hire/illustrators/"
+        },
+        {
+            "text": "Logo designers",
+            "url": "/hire/logo-designers/"
+        },
+        {
+            "text": "UX designers",
+            "url": "/hire/ux-designers/"
+        },
+        {
+            "text": "Web designers",
+            "url": "/hire/web-designers/"
+        },
+        {
+            "text": "Mobile app developers",
+            "url": "/hire/mobile-app-developers/"
+        },
+        {
+            "text": "Python developers",
+            "url": "/hire/python-developers/"
+        },
+        {
+            "text": "Software developers",
+            "url": "/hire/software-developers/"
+        },
+        {
+            "text": "Web developers",
+            "url": "/hire/web-developers/"
+        },
+        {
+            "text": "WordPress developers",
+            "url": "/hire/wordpress-developers/"
+        },
+        {
+            "text": "Digital marketers",
+            "url": "/hire/digital-marketers/"
+        },
+        {
+            "text": "Email marketers",
+            "url": "/hire/email-marketing-consultants/"
+        },
+        {
+            "text": "Google Ads experts",
+            "url": "/hire/google-adwords-experts/"
+        },
+        {
+            "text": "SEO experts",
+            "url": "/hire/seo-experts/"
+        },
+        {
+            "text": "Social media managers",
+            "url": "/hire/social-media-managers/"
+        },
+        {
+            "text": "Animators",
+            "url": "/hire/animators/"
+        },
+        {
+            "text": "Audio editors",
+            "url": "/hire/audio-editors/"
+        },
+        {
+            "text": "Music producers",
+            "url": "/hire/music-producers/"
+        },
+        {
+            "text": "Video editors",
+            "url": "/hire/video-editors/"
+        },
+        {
+            "text": "Voice actors",
+            "url": "/hire/voice-actors/"
+        },
+        {
+            "text": "Book editors",
+            "url": "/hire/book-editing-freelancers/"
+        },
+        {
+            "text": "Content writers",
+            "url": "/hire/content-writers/"
+        },
+        {
+            "text": "Copywriters",
+            "url": "/hire/copywriters/"
+        },
+        {
+            "text": "Email copywriters",
+            "url": "/hire/email-copywriting-freelancers/"
+        },
+        {
+            "text": "Ghostwriters",
+            "url": "/hire/ghostwriters/"
+        },
+        {
+            "text": "Explore more",
+            "url": "/hire/"
+        },
+        {
+            "text": "Book consultation",
+            "url": "/services/consultations/"
+        },
+        {
+            "text": "Explore more",
+            "url": "/freelance-jobs/"
+        },
+        {
+            "text": "Ways to earn",
+            "url": "/work"
+        },
+        {
+            "text": "Win work with ads",
+            "url": "/work/promote/"
+        },
+        {
+            "text": "Join Freelancer Plus",
+            "url": "/work/freelancerplus"
+        },
+        {
+            "text": "Chat support jobs",
+            "url": "/freelance-jobs/chat-support/"
+        },
+        {
+            "text": "Cold calling jobs",
+            "url": "/freelance-jobs/cold-calling/"
+        },
+        {
+            "text": "Content moderation jobs",
+            "url": "/freelance-jobs/content-moderation/"
+        },
+        {
+            "text": "Lead generation jobs",
+            "url": "/freelance-jobs/lead-generation/"
+        },
+        {
+            "text": "Virtual assistant jobs",
+            "url": "/freelance-jobs/virtual-assistant/"
+        },
+        {
+            "text": "AI app development jobs",
+            "url": "/freelance-jobs/ai-app-developers/"
+        },
+        {
+            "text": "Chatbot development jobs",
+            "url": "/freelance-jobs/chatbot-development/"
+        },
+        {
+            "text": "Ethical hacking jobs",
+            "url": "/freelance-jobs/ethical-hacking/"
+        },
+        {
+            "text": "Machine learning jobs",
+            "url": "/freelance-jobs/machine-learning/"
+        },
+        {
+            "text": "OpenAI jobs",
+            "url": "/freelance-jobs/openai/"
+        },
+        {
+            "text": "Canva jobs",
+            "url": "/freelance-jobs/canva/"
+        },
+        {
+            "text": "Graphic design jobs",
+            "url": "/freelance-jobs/graphic-design/"
+        },
+        {
+            "text": "Illustration jobs",
+            "url": "/freelance-jobs/illustration/"
+        },
+        {
+            "text": "Logo design jobs",
+            "url": "/freelance-jobs/logo-design/"
+        },
+        {
+            "text": "Web design jobs",
+            "url": "/freelance-jobs/web-design/"
+        },
+        {
+            "text": "Mobile app development jobs",
+            "url": "/freelance-jobs/mobile-app-development/"
+        },
+        {
+            "text": "Python jobs",
+            "url": "/freelance-jobs/python/"
+        },
+        {
+            "text": "Software development jobs",
+            "url": "/freelance-jobs/software-development/"
+        },
+        {
+            "text": "Web development jobs",
+            "url": "/freelance-jobs/web-development/"
+        },
+        {
+            "text": "WordPress jobs",
+            "url": "/freelance-jobs/wordpress/"
+        },
+        {
+            "text": "Digital marketing jobs",
+            "url": "/freelance-jobs/digital-marketing/"
+        },
+        {
+            "text": "Email marketing jobs",
+            "url": "/freelance-jobs/email-marketing/"
+        },
+        {
+            "text": "Google Ads jobs",
+            "url": "/freelance-jobs/google-adwords/"
+        },
+        {
+            "text": "SEO jobs",
+            "url": "/freelance-jobs/seo/"
+        },
+        {
+            "text": "Social media management jobs",
+            "url": "/freelance-jobs/social-media-management/"
+        },
+        {
+            "text": "Animation jobs",
+            "url": "/freelance-jobs/animation/"
+        },
+        {
+            "text": "Audio editing jobs",
+            "url": "/freelance-jobs/audio-editing/"
+        },
+        {
+            "text": "Music production jobs",
+            "url": "/freelance-jobs/music-producer/"
+        },
+        {
+            "text": "Video editing jobs",
+            "url": "/freelance-jobs/video-editing/"
+        },
+        {
+            "text": "Voice over jobs",
+            "url": "/freelance-jobs/voice-over/"
+        },
+        {
+            "text": "Book editing jobs",
+            "url": "/freelance-jobs/book-editing/"
+        },
+        {
+            "text": "Content writing jobs",
+            "url": "/freelance-jobs/content-writing/"
+        },
+        {
+            "text": "Copywriting jobs",
+            "url": "/freelance-jobs/copywriting/"
+        },
+        {
+            "text": "Email copywriting jobs",
+            "url": "/freelance-jobs/email-copywriting/"
+        },
+        {
+            "text": "Ghostwriting jobs",
+            "url": "/freelance-jobs/ghostwriting/"
+        },
+        {
+            "text": "Explore more",
+            "url": "/freelance-jobs/"
+        },
+        {
+            "text": "Ways to earn",
+            "url": "/work"
+        },
+        {
+            "text": "Win work with ads",
+            "url": "/work/promote/"
+        },
+        {
+            "text": "Join Freelancer Plus",
+            "url": "/work/freelancerplus"
+        },
+        {
+            "text": "Success stories",
+            "url": "/success-stories"
+        },
+        {
+            "text": "How to hire",
+            "url": "/i/how-it-works/client/"
+        },
+        {
+            "text": "Reviews",
+            "url": "/reviews/"
+        },
+        {
+            "text": "How to find work",
+            "url": "/i/how-it-works/freelancer/"
+        },
+        {
+            "text": "How to Hire Freelancers on Upwork",
+            "url": "/resources/how-to-hire-freelancers"
+        },
+        {
+            "text": "How to Use Upwork as a Freelancer",
+            "url": "/resources/upwork-for-beginners"
+        },
+        {
+            "text": "Grow Your Freelance Business",
+            "url": "/resources/growing-your-freelance-business"
+        },
+        {
+            "text": "More resources",
+            "url": "/resources"
+        },
+        {
+            "text": "Success storiesDiscover how teams work strategically and grow together.",
+            "url": "/success-stories"
+        },
+        {
+            "text": "How to hireLearn about the different ways to get work done.",
+            "url": "/i/how-it-works/client/"
+        },
+        {
+            "text": "ReviewsSee what it’s like to collaborate on Upwork.",
+            "url": "/reviews/"
+        },
+        {
+            "text": "How to find workLearn about how to grow your independent career.",
+            "url": "/i/how-it-works/freelancer/"
+        },
+        {
+            "text": "How to Hire Freelancers on Upwork",
+            "url": "/resources/how-to-hire-freelancers"
+        },
+        {
+            "text": "How to Use Upwork as a Freelancer",
+            "url": "/resources/upwork-for-beginners"
+        },
+        {
+            "text": "Grow Your Freelance Business",
+            "url": "/resources/growing-your-freelance-business"
+        },
+        {
+            "text": "More resources",
+            "url": "/resources"
+        },
+        {
+            "text": "Upwork UpdatesCheck out our latest products, partners, and enhancements.",
+            "url": "/updates/"
+        },
+        {
+            "text": "BlogNews and stories from the world’s work marketplace.",
+            "url": "/blog"
+        },
+        {
+            "text": "Research InstituteInsights and tools for business leaders navigating a new world of work.",
+            "url": "/research"
+        },
+        {
+            "text": "Release notesOur latest product news, additions, and improvements.",
+            "url": "/product-release-notes"
+        },
+        {
+            "text": "Upwork UpdatesCheck out our latest products, partners, and enhancements.",
+            "url": "/updates/"
+        },
+        {
+            "text": "BlogNews and stories from the world’s work marketplace.",
+            "url": "/blog"
+        },
+        {
+            "text": "Research InstituteInsights and tools for business leaders navigating a new world of work.",
+            "url": "/research"
+        },
+        {
+            "text": "Release notesOur latest product news, additions, and improvements.",
+            "url": "/product-release-notes"
+        },
+        {
+            "text": "PricingPricing",
+            "url": "/pricing/client"
+        },
+        {
+            "text": "For enterprise:Lifted",
+            "url": "https://go-lifted.com/"
+        },
+        {
+            "text": "Log inLog in",
+            "url": "/ab/account-security/login"
+        },
+        {
+            "text": "Get offer",
+            "url": "/business-plus/"
+        },
+        {
+            "text": "Get offer",
+            "url": "/business-plus/"
+        },
+        {
+            "text": "Get offer",
+            "url": "/business-plus/"
+        },
+        {
+            "text": "Get offer",
+            "url": "/business-plus/"
+        },
+        {
+            "text": "Explore recently posted jobs",
+            "url": "/freelance-jobs/"
+        },
+        {
+            "text": "Create a job",
+            "url": "/nx/signup/?signupType=client"
+        },
+        {
+            "text": "Explore experts",
+            "url": "/services/consultations/"
+        },
+        {
+            "text": "View pricing",
+            "url": "#plansContainer"
+        },
+        {
+            "text": "Get started for free",
+            "url": "/nx/signup/?accountType=client"
+        },
+        {
+            "text": "Get started for free",
+            "url": "/nx/signup/business-plus"
+        },
+        {
+            "text": "Compare all plan features",
+            "url": "/pricing/client#pricing-table"
+        },
+        {
+            "text": "$1 million on Upwork",
+            "url": "https://www.youtube.com/watch?v=MDwdcRVFWcY"
+        },
+        {
+            "text": "pricing comparison",
+            "url": "https://www.upwork.com/pricing/client"
+        },
+        {
+            "text": "eligible U.S. businesses",
+            "url": "https://support.upwork.com/hc/en-us/articles/211068088-Pay-by-bank-account"
+        },
+        {
+            "text": "Connects",
+            "url": "https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects"
+        },
+        {
+            "text": "How to hire",
+            "url": "/i/how-it-works/client/"
+        },
+        {
+            "text": "Talent Marketplace",
+            "url": "/talent-marketplace/"
+        },
+        {
+            "text": "Project Catalog",
+            "url": "/services/"
+        },
+        {
+            "text": "Hire an agency",
+            "url": "/agencies"
+        },
+        {
+            "text": "Enterprise",
+            "url": "/enterprise/"
+        },
+        {
+            "text": "Business Plus",
+            "url": "/business-plus/"
+        },
+        {
+            "text": "Any Hire",
+            "url": "/anyhire/"
+        },
+        {
+            "text": "Contract-to-hire",
+            "url": "/contract-to-hire/client"
+        },
+        {
+            "text": "Direct Contracts",
+            "url": "/direct-contracts/cl"
+        },
+        {
+            "text": "Hire worldwide",
+            "url": "/hire/"
+        },
+        {
+            "text": "Hire in the USA",
+            "url": "/hire/us/"
+        },
+        {
+            "text": "How to find work",
+            "url": "/i/how-it-works/freelancer/"
+        },
+        {
+            "text": "Direct Contracts",
+            "url": "/direct-contracts"
+        },
+        {
+            "text": "Find freelance jobs worldwide",
+            "url": "/freelance-jobs/"
+        },
+        {
+            "text": "Find freelance jobs in the USA",
+            "url": "/freelance-jobs/united-states/"
+        },
+        {
+            "text": "Win work with ads",
+            "url": "/work/ads"
+        },
+        {
+            "text": "Exclusive resources with Freelancer Plus",
+            "url": "/work/freelancerplus"
+        },
+        {
+            "text": "Help & support",
+            "url": "https://support.upwork.com/hc/en-us"
+        },
+        {
+            "text": "Success stories",
+            "url": "/success-stories"
+        },
+        {
+            "text": "Upwork reviews",
+            "url": "/reviews"
+        },
+        {
+            "text": "Resources",
+            "url": "/resources"
+        },
+        {
+            "text": "Blog",
+            "url": "/blog"
+        },
+        {
+            "text": "Affiliate programme",
+            "url": "/affiliates"
+        },
+        {
+            "text": "Free Business Tools",
+            "url": "/tools"
+        },
+        {
+            "text": "Release notes",
+            "url": "/product-release-notes"
+        },
+        {
+            "text": "About us",
+            "url": "/about"
+        },
+        {
+            "text": "Leadership",
+            "url": "/about/team"
+        },
+        {
+            "text": "Investor relations",
+            "url": "https://investors.upwork.com/"
+        },
+        {
+            "text": "Careers",
+            "url": "/careers"
+        },
+        {
+            "text": "Our impact",
+            "url": "/about/our-impact"
+        },
+        {
+            "text": "Press",
+            "url": "/press"
+        },
+        {
+            "text": "Contact us",
+            "url": "/about/contact"
+        },
+        {
+            "text": "Partners",
+            "url": "/partners/"
+        },
+        {
+            "text": "Trust, safety & security",
+            "url": "/trust-and-safety/security/"
+        },
+        {
+            "text": "Modern slavery statement",
+            "url": "/documents/modern-slavery-statement"
+        },
+        {
+            "text": "Visit Upwork on Facebook",
+            "url": "https://www.facebook.com/upwork"
+        },
+        {
+            "text": "Read Upwork company news on LinkedIn",
+            "url": "https://www.linkedin.com/company/upwork"
+        },
+        {
+            "text": "Follow @Upwork on Twitter",
+            "url": "https://twitter.com/Upwork"
+        },
+        {
+            "text": "Watch Upwork videos on YouTube",
+            "url": "https://www.youtube.com/channel/UCvxGFOnwUBDHHcxuPqhe4CQ"
+        },
+        {
+            "text": "Follow Upwork on Instagram",
+            "url": "https://www.instagram.com/upwork/"
+        },
+        {
+            "text": "Download Upwork app from iTunes",
+            "url": "https://apps.apple.com/us/developer/upwork-global-inc/id329377609"
+        },
+        {
+            "text": "Download Upwork app from Google Play",
+            "url": "https://play.google.com/store/apps/dev?id=8802639270489632480"
+        },
+        {
+            "text": "Terms of Service",
+            "url": "/legal"
+        },
+        {
+            "text": "Privacy Policy",
+            "url": "/legal#privacy"
+        },
+        {
+            "text": "CA Notice at Collection",
+            "url": "/legal#SupplementalPrivacyNoticeforCaliforniaResidents"
+        },
+        {
+            "text": "Your Privacy Choices",
+            "url": "javascript:"
+        },
+        {
+            "text": "Accessibility",
+            "url": "/legal#accessibility"
+        },
+        {
+            "text": "Privacy Policy",
+            "url": "https://www.upwork.com/legal#privacy"
+        }
+    ],
+    "images_extracted": [
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "Arrow Right",
+            "src": "https://www.upwork.com/static/assets/TopNavSsi/visitor-v2/img/icon-arrow-link.1e58abf5.svg"
+        },
+        {
+            "alt": "A freelancer working on a laptop in an apartment.",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/q_auto,h_630/v1741896805/brontes/hero/ApartmentCoder.jpg"
+        },
+        {
+            "alt": "Microsoft logo",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/q_auto/brontes/hero/logo-microsoft-grey.svg"
+        },
+        {
+            "alt": "Airbnb logo",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/q_auto/brontes/hero/logo-airbnb-grey.svg"
+        },
+        {
+            "alt": "Bissell logo",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/q_auto/brontes/hero/logo-bissell-grey.svg"
+        },
+        {
+            "alt": "Glassdoor logo",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/q_auto/brontes/hero/logo-glassdoor.svg"
+        },
+        {
+            "alt": "Get proposals and hire",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/f_auto,q_auto,h_270/brontes/hiw-v2/for_hiring_1.png"
+        },
+        {
+            "alt": "Pay when work is done",
+            "src": "https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/f_auto,q_auto/brontes/hiw-v2/for_hiring_3.png"
+        },
+        {
+            "alt": "Richard C.",
+            "src": "https://www.upwork.com/profile-portraits/c13P5m6hdULPQEl9OSPZfOYN0Byn0O9XxsoJk7_bjJgdG9JjXK2Pqy1f9w9U6Lb2jR"
+        },
+        {
+            "alt": "Haris S.",
+            "src": "https://www.upwork.com/profile-portraits/c1-D22wQKB2gWknjchhx-y0TRK2I69w_3I-zdWb0Hdd_ZRm02xEX5_EXGjxSeRDAC-"
+        },
+        {
+            "alt": "Ezzan S.",
+            "src": "https://www.upwork.com/profile-portraits/c1m87NhiyuQ15oQXX3ytQtyhjR--fYDZJlpvd3naySyW7STPc2FZQipPzo7DMF2Hcg"
+        },
+        {
+            "alt": "Jibran Z.",
+            "src": "https://www.upwork.com/profile-portraits/c1aS0EII9SWhVI5M3b5U0bbHMzX5Oyp2yaD_h5XBYqhnlzPdVpQO2Kfa9RGowKEDlG"
+        },
+        {
+            "alt": "Michael L.",
+            "src": "https://www.upwork.com/profile-portraits/c168o2zpN1Lavw3IM3oYDSovNhLClh5MsNQePMXlzAi2sao-NWOupAmiKT_e93tY9h"
+        },
+        {
+            "alt": "Ahmed A.",
+            "src": "https://www.upwork.com/profile-portraits/c1qcYqh4wSnK0ifxobxuRaSuhXs4tUsMPO6Ny9-YucuonZStiSO_qbRlWqmilM-jdW"
+        }
+    ]
+}

@@ -153,7 +153,7 @@ cd universal-web-scraper
 <p
     align="center"
 >
-    <strong>Francisco A. de Souza</strong> <i>Python Developer & Data Scientist</i>
+    <strong>Francisco A. de Souza</strong> <i>Python Developer & Data Scientist | Data Specialist </i>
 </p>
 
 ---
